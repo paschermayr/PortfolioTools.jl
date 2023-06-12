@@ -1,7 +1,7 @@
 name = "PortfolioTools"
 uuid = "688f4c35-73fa-4f4a-89f5-eaf16b91200a"
 authors = ["Patrick Aschermayr <p.aschermayr@gmail.com>"]
-version = "1.0.0-DEV"
+version = "0.1"
 
 [deps]
 ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
