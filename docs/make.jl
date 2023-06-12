@@ -14,8 +14,9 @@ makedocs(;
         edit_link="main",
         assets=String[],
     ),
-    pages=["Home" => "index.md"],
+    pages=["Home" => "index.md",
     "Introduction" => "intro.md",
+    ],
 )
 
 deploydocs(; repo="github.com/paschermayr/PortfolioTools.jl", devbranch="main")
